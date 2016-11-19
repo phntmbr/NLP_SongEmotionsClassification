@@ -1,0 +1,17 @@
+C:\Users\Ian Hsieh\Google Drive\IISR\MIR_2015project\My_Code\GetLyrics\LyricsParser\LyricsParser\bin\Debug\LyricsParser.exe.config
+C:\Users\Ian Hsieh\Google Drive\IISR\MIR_2015project\My_Code\GetLyrics\LyricsParser\LyricsParser\bin\Debug\LyricsParser.exe
+C:\Users\Ian Hsieh\Google Drive\IISR\MIR_2015project\My_Code\GetLyrics\LyricsParser\LyricsParser\bin\Debug\LyricsParser.pdb
+C:\Users\Ian Hsieh\Google Drive\IISR\MIR_2015project\My_Code\GetLyrics\LyricsParser\LyricsParser\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Ian Hsieh\Google Drive\IISR\MIR_2015project\My_Code\GetLyrics\LyricsParser\LyricsParser\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Ian Hsieh\Google Drive\IISR\MIR_2015project\My_Code\GetLyrics\LyricsParser\LyricsParser\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Ian Hsieh\Google Drive\IISR\MIR_2015project\My_Code\GetLyrics\LyricsParser\LyricsParser\obj\Debug\LyricsParser.csprojResolveAssemblyReference.cache
+C:\Users\Ian Hsieh\Google Drive\IISR\MIR_2015project\My_Code\GetLyrics\LyricsParser\LyricsParser\obj\Debug\LyricsParser.exe
+C:\Users\Ian Hsieh\Google Drive\IISR\MIR_2015project\My_Code\GetLyrics\LyricsParser\LyricsParser\obj\Debug\LyricsParser.pdb
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\GetLyrics\LyricsParser\LyricsParser\bin\Debug\LyricsParser.exe.config
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\GetLyrics\LyricsParser\LyricsParser\obj\Debug\LyricsParser.exe
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\GetLyrics\LyricsParser\LyricsParser\obj\Debug\LyricsParser.pdb
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\GetLyrics\LyricsParser\LyricsParser\bin\Debug\LyricsParser.exe
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\GetLyrics\LyricsParser\LyricsParser\bin\Debug\LyricsParser.pdb
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\GetLyrics\LyricsParser\LyricsParser\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\GetLyrics\LyricsParser\LyricsParser\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\GetLyrics\LyricsParser\LyricsParser\obj\Debug\LyricsParser.csprojResolveAssemblyReference.cache

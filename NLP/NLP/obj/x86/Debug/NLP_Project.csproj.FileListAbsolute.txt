@@ -1,0 +1,46 @@
+C:\Users\Ian Hsieh\Documents\Visual Studio 2013\Projects\NLP\NLP\bin\Debug\Resources\english.stop.txt
+C:\Users\Ian Hsieh\Documents\Visual Studio 2013\Projects\NLP\NLP\bin\Debug\Resources\en-chunker.bin
+C:\Users\Ian Hsieh\Documents\Visual Studio 2013\Projects\NLP\NLP\bin\Debug\Resources\en-parser-chunking.bin
+C:\Users\Ian Hsieh\Documents\Visual Studio 2013\Projects\NLP\NLP\bin\Debug\Resources\en-pos-maxent.bin
+C:\Users\Ian Hsieh\Documents\Visual Studio 2013\Projects\NLP\NLP\bin\Debug\Resources\en-sent.bin
+C:\Users\Ian Hsieh\Documents\Visual Studio 2013\Projects\NLP\NLP\bin\Debug\Resources\en-token.bin
+C:\Users\Ian Hsieh\Documents\Visual Studio 2013\Projects\NLP\NLP\bin\Debug\NLP.exe
+C:\Users\Ian Hsieh\Documents\Visual Studio 2013\Projects\NLP\NLP\bin\Debug\NLP.pdb
+C:\Users\Ian Hsieh\Documents\Visual Studio 2013\Projects\NLP\NLP\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\Ian Hsieh\Documents\Visual Studio 2013\Projects\NLP\NLP\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Ian Hsieh\Documents\Visual Studio 2013\Projects\NLP\NLP\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\Ian Hsieh\Documents\Visual Studio 2013\Projects\NLP\NLP\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\Ian Hsieh\Documents\Visual Studio 2013\Projects\NLP\NLP\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Ian Hsieh\Documents\Visual Studio 2013\Projects\NLP\NLP\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\Ian Hsieh\Documents\Visual Studio 2013\Projects\NLP\NLP\bin\Debug\IKVM.Runtime.dll
+C:\Users\Ian Hsieh\Documents\Visual Studio 2013\Projects\NLP\NLP\bin\Debug\LemmaSharp.dll
+C:\Users\Ian Hsieh\Documents\Visual Studio 2013\Projects\NLP\NLP\bin\Debug\LemmaSharpPrebuilt.dll
+C:\Users\Ian Hsieh\Documents\Visual Studio 2013\Projects\NLP\NLP\bin\Debug\LemmaSharpPrebuiltCompact.dll
+C:\Users\Ian Hsieh\Documents\Visual Studio 2013\Projects\NLP\NLP\bin\Debug\Lzma#.dll
+C:\Users\Ian Hsieh\Documents\Visual Studio 2013\Projects\NLP\NLP\bin\Debug\opennlp.dll
+C:\Users\Ian Hsieh\Documents\Visual Studio 2013\Projects\NLP\NLP\obj\x86\Debug\NLP_Project.csprojResolveAssemblyReference.cache
+C:\Users\Ian Hsieh\Documents\Visual Studio 2013\Projects\NLP\NLP\obj\x86\Debug\NLP.exe
+C:\Users\Ian Hsieh\Documents\Visual Studio 2013\Projects\NLP\NLP\obj\x86\Debug\NLP.pdb
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\NLP\NLP\obj\x86\Debug\NLP.exe
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\NLP\NLP\obj\x86\Debug\NLP.pdb
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\NLP\NLP\bin\Debug\Resources\english.stop.txt
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\NLP\NLP\bin\Debug\Resources\en-chunker.bin
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\NLP\NLP\bin\Debug\Resources\en-parser-chunking.bin
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\NLP\NLP\bin\Debug\Resources\en-pos-maxent.bin
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\NLP\NLP\bin\Debug\Resources\en-sent.bin
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\NLP\NLP\bin\Debug\Resources\en-token.bin
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\NLP\NLP\bin\Debug\NLP.exe
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\NLP\NLP\bin\Debug\NLP.pdb
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\NLP\NLP\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\NLP\NLP\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\NLP\NLP\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\NLP\NLP\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\NLP\NLP\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\NLP\NLP\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\NLP\NLP\bin\Debug\IKVM.Runtime.dll
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\NLP\NLP\bin\Debug\LemmaSharp.dll
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\NLP\NLP\bin\Debug\LemmaSharpPrebuilt.dll
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\NLP\NLP\bin\Debug\LemmaSharpPrebuiltCompact.dll
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\NLP\NLP\bin\Debug\Lzma#.dll
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\NLP\NLP\bin\Debug\opennlp.dll
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\NLP\NLP\obj\x86\Debug\NLP_Project.csprojResolveAssemblyReference.cache

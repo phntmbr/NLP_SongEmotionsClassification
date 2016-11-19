@@ -1,0 +1,51 @@
+C:\Users\chouyangchien\Desktop\FileTranslation\FileTranslation\bin\Debug\FileTranslation.exe.config
+C:\Users\chouyangchien\Desktop\FileTranslation\FileTranslation\bin\Debug\FileTranslation.exe
+C:\Users\chouyangchien\Desktop\FileTranslation\FileTranslation\bin\Debug\FileTranslation.pdb
+C:\Users\chouyangchien\Desktop\FileTranslation\FileTranslation\obj\Debug\FileTranslation.csprojResolveAssemblyReference.cache
+C:\Users\chouyangchien\Desktop\FileTranslation\FileTranslation\obj\Debug\FileTranslation.Form1.resources
+C:\Users\chouyangchien\Desktop\FileTranslation\FileTranslation\obj\Debug\FileTranslation.Properties.Resources.resources
+C:\Users\chouyangchien\Desktop\FileTranslation\FileTranslation\obj\Debug\FileTranslation.csproj.GenerateResource.Cache
+C:\Users\chouyangchien\Desktop\FileTranslation\FileTranslation\obj\Debug\FileTranslation.exe
+C:\Users\chouyangchien\Desktop\FileTranslation\FileTranslation\obj\Debug\FileTranslation.pdb
+C:\Kevin\FileTranslation\FileTranslation\bin\Debug\FileTranslation.exe.config
+C:\Kevin\FileTranslation\FileTranslation\bin\Debug\FileTranslation.exe.manifest
+C:\Kevin\FileTranslation\FileTranslation\bin\Debug\FileTranslation.application
+C:\Kevin\FileTranslation\FileTranslation\bin\Debug\FileTranslation.exe
+C:\Kevin\FileTranslation\FileTranslation\bin\Debug\FileTranslation.pdb
+C:\Kevin\FileTranslation\FileTranslation\obj\Debug\FileTranslation.Form1.resources
+C:\Kevin\FileTranslation\FileTranslation\obj\Debug\FileTranslation.Properties.Resources.resources
+C:\Kevin\FileTranslation\FileTranslation\obj\Debug\FileTranslation.csproj.GenerateResource.Cache
+C:\Kevin\FileTranslation\FileTranslation\obj\Debug\FileTranslation.TrustInfo.xml
+C:\Kevin\FileTranslation\FileTranslation\obj\Debug\FileTranslation.exe.manifest
+C:\Kevin\FileTranslation\FileTranslation\obj\Debug\FileTranslation.application
+C:\Kevin\FileTranslation\FileTranslation\obj\Debug\FileTranslation.exe
+C:\Kevin\FileTranslation\FileTranslation\obj\Debug\FileTranslation.pdb
+C:\Kevin\FileTranslation\FileTranslation\obj\Debug\FileTranslation.csprojResolveAssemblyReference.cache
+D:\Kevin\FileTranslation\FileTranslation\bin\Debug\FileTranslation.exe.config
+D:\Kevin\FileTranslation\FileTranslation\obj\Debug\FileTranslation.exe
+D:\Kevin\FileTranslation\FileTranslation\obj\Debug\FileTranslation.pdb
+D:\Kevin\FileTranslation\FileTranslation\bin\Debug\FileTranslation.exe.manifest
+D:\Kevin\FileTranslation\FileTranslation\bin\Debug\FileTranslation.application
+D:\Kevin\FileTranslation\FileTranslation\bin\Debug\FileTranslation.exe
+D:\Kevin\FileTranslation\FileTranslation\bin\Debug\FileTranslation.pdb
+D:\Kevin\FileTranslation\FileTranslation\obj\Debug\FileTranslation.csprojResolveAssemblyReference.cache
+D:\Kevin\FileTranslation\FileTranslation\obj\Debug\FileTranslation.Form1.resources
+D:\Kevin\FileTranslation\FileTranslation\obj\Debug\FileTranslation.Properties.Resources.resources
+D:\Kevin\FileTranslation\FileTranslation\obj\Debug\FileTranslation.csproj.GenerateResource.Cache
+D:\Kevin\FileTranslation\FileTranslation\obj\Debug\FileTranslation.TrustInfo.xml
+D:\Kevin\FileTranslation\FileTranslation\obj\Debug\FileTranslation.exe.manifest
+D:\Kevin\FileTranslation\FileTranslation\obj\Debug\FileTranslation.application
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\FileTranslation\FileTranslation\bin\Debug\FileTranslation.exe.config
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\FileTranslation\FileTranslation\obj\Debug\FileTranslation.exe
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\FileTranslation\FileTranslation\obj\Debug\FileTranslation.pdb
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\FileTranslation\FileTranslation\bin\Debug\FileTranslation.exe.manifest
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\FileTranslation\FileTranslation\bin\Debug\FileTranslation.application
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\FileTranslation\FileTranslation\bin\Debug\FileTranslation.exe
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\FileTranslation\FileTranslation\bin\Debug\FileTranslation.pdb
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\FileTranslation\FileTranslation\obj\Debug\FileTranslation.csprojResolveAssemblyReference.cache
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\FileTranslation\FileTranslation\obj\Debug\FileTranslation.Form1.resources
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\FileTranslation\FileTranslation\obj\Debug\FileTranslation.Properties.Resources.resources
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\FileTranslation\FileTranslation\obj\Debug\FileTranslation.csproj.GenerateResource.Cache
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\FileTranslation\FileTranslation\obj\Debug\FileTranslation.TrustInfo.xml
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\FileTranslation\FileTranslation\obj\Debug\FileTranslation.exe.manifest
+C:\Users\Ian Hsieh\Google Drive\IISR\Projects\FileTranslation\FileTranslation\obj\Debug\FileTranslation.application
